@@ -1,1 +1,7 @@
-dffa
+# 📁 Carpeta `img`
+
+Esta carpeta contiene las imágenes usadas en el juego.  
+
+🖼️ Actualmente está vacía para mantener la estructura del repositorio.
+
+📌 El archivo `.gitkeep` está presente para que Git mantenga esta carpeta aunque esté vacía.
